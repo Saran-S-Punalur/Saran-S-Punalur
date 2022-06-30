@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saran-S-Punalur
 - 👀 I’m interested in learning newer treds and making projects that has practical uses
-- 🌱 I’m currently learning Tkinter 
+- 🌱 I’m currently learning Flutter and Dart
 - 💞️ I’m looking to collaborate on anything that involves making something useful
 - 📫 How to reach me : sharansmails@gmail.com
 
